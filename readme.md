@@ -1,4 +1,4 @@
-# TodoMVC App Template
+# Todo App with Alpine.js
 
 > Template used for creating [TodoMVC](http://todomvc.com) apps
 
